@@ -13,7 +13,7 @@ My OS kernel development
 - For Microcontroller， sensor, IoT devices
 - Realtime, fast, secure
 - Flexible, dynamic and easy to configure (drivers)
-- RISC-V, ARM, AVR, STM support
+- RISC-V focus(I will consider ship it for ARM, AVR, STM when it matures)
 - Dedicated application customization support
   - Computing
   - Controlling
